@@ -1,0 +1,22 @@
+{
+  "name": "git-test-03",
+  "version": "1.0.0",
+  "description": "This is example about git-test-03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhhy26102002/Ledangkhanhhy.git"
+  },
+  "author": "Khanhhy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhhy26102002/Ledangkhanhhy/issues"
+  },
+  "homepage": "https://github.com/khanhhy26102002/Ledangkhanhhy#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
